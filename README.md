@@ -22,6 +22,7 @@ _**Real-Time Results:**_
   Once the vote is cast, users are redirected to the results page for up-to-date information on the ongoing election.
 
 
+
 WeDecide not only caters to voters but also provides a robust platform for administrators to efficiently manage political parties and candidates. 
 **Here are the key functionalities for administrators:**
 

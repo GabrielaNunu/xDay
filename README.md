@@ -31,3 +31,7 @@ _**Party Management:**_
 
 _**Candidate Administration:**_
   Administrators have the ability to oversee and maintain candidate profiles. This includes adding essential details such as ID number, first name, last name, affiliated party, and the type of elections the candidate is participating in.
+
+
+**Login page:**
+![IMG_8419](https://github.com/GabrielaNunu/xDay/assets/144325788/bd160eb7-e36c-4a15-bd51-ee89b669f49b)

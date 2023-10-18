@@ -20,3 +20,13 @@ _**Confirmation Prompt:**_
 
 _**Real-Time Results:**_
   Once the vote is cast, users are redirected to the results page for up-to-date information on the ongoing election.
+
+
+WeDecide not only caters to voters but also provides a robust platform for administrators to efficiently manage political parties and candidates. 
+**Here are the key functionalities for administrators:**
+
+_**Party Management:**_
+  Administrators can easily add and manage political parties. They can input the ID number, party name, and upload the party's logo.
+
+_**Candidate Administration:**_
+  Administrators have the ability to oversee and maintain candidate profiles. This includes adding essential details such as ID number, first name, last name, affiliated party, and the type of elections the candidate is participating in.

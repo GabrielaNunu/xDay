@@ -34,4 +34,5 @@ _**Candidate Administration:**_
 
 
 **Login page:**
-![IMG_8419](https://github.com/GabrielaNunu/xDay/assets/144325788/bd160eb7-e36c-4a15-bd51-ee89b669f49b){:width="100px" height="100px"}
+![IMG_8419](https://github.com/GabrielaNunu/xDay/assets/144325788/bd160eb7-e36c-4a15-bd51-ee89b669f49b){:width="10px" height="auto"}
+

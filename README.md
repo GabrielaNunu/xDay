@@ -34,6 +34,7 @@ _**Candidate Administration:**_
 
 
 **Images of the demo:**
-<img width="550" alt="Captură de ecran din 2023-10-18 la 16 02 03" src="https://github.com/GabrielaNunu/xDay/assets/144325788/3c9cebeb-1af4-4fea-8730-e0a551ea14c2">
+
+<img width="750" alt="Captură de ecran din 2023-10-18 la 16 02 03" src="https://github.com/GabrielaNunu/xDay/assets/144325788/3c9cebeb-1af4-4fea-8730-e0a551ea14c2">
 
 

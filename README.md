@@ -34,12 +34,6 @@ _**Candidate Administration:**_
 
 
 **Images of the demo:**
-![8_Administration Candidate](https://github.com/GabrielaNunu/xDay/assets/144325788/1e26f010-d469-462c-ac4e-e2bef4f38374)
-![7_Administration party](https://github.com/GabrielaNunu/xDay/assets/144325788/efce958e-4e23-44d6-a157-846fdf82ac42)
-![6_Admin Home](https://github.com/GabrielaNunu/xDay/assets/144325788/9d9940dc-0e2e-44ae-9ecc-963f5f606219)
-![5_Results](https://github.com/GabrielaNunu/xDay/assets/144325788/dc9e0b12-82a1-41b2-8817-edd95c64c8c4)
-![4_Confirmation](https://github.com/GabrielaNunu/xDay/assets/144325788/d4a2ca39-3c1a-4f3f-a12f-d1ac3e906eeb)
-![3_Candidates](https://github.com/GabrielaNunu/xDay/assets/144325788/1871198b-3fe1-47e6-a8d7-4738910f565a)
-![2_User Home](https://github.com/GabrielaNunu/xDay/assets/144325788/20cdca53-b616-4dab-a706-a497996a900b)
-![1_Login page](https://github.com/GabrielaNunu/xDay/assets/144325788/1f535900-36c9-4473-b1ef-ef1d9ca4fb74)
+<img width="550" alt="Captură de ecran din 2023-10-18 la 16 02 03" src="https://github.com/GabrielaNunu/xDay/assets/144325788/3c9cebeb-1af4-4fea-8730-e0a551ea14c2">
+
 

@@ -1,1 +1,22 @@
-# xDay
+**WeDecide** is a cutting-edge voting application designed to facilitate parliamentary, presidential, regional, and local elections. 
+Built using Oracle APEX, this web-based platform seamlessly transforms into a mobile application, providing users with the convenience of voting from their smartphones.
+
+**Key Features:**
+
+_**Secure Login:**_
+  Users can securely log in with their credentials, ensuring a private and reliable voting experience.
+  
+_**User-Tailored Dashboard:**_
+  Upon logging in, users are greeted with a personalized dashboard displaying cards for various types of elections, including parliamentary, presidential, regional, and local.
+  
+_**Intuitive Voting Process:**_ 
+  Based on the user's eligibility, they can select their desired election type and proceed to the candidate selection page.
+  
+_**Candidate Profiles:**_
+  Detailed profiles of candidates are presented, accompanied by vote buttons for user convenience.
+
+_**Confirmation Prompt:**_
+  After making their selection, users receive a confirmation prompt to ensure accuracy in their voting choices.
+
+_**Real-Time Results:**_
+  Once the vote is cast, users are redirected to the results page for up-to-date information on the ongoing election.
